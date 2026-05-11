@@ -1,0 +1,27 @@
+{
+  "vibrant": "#da902c",
+  "muted": "#a4647c",
+  "darkVibrant": "#623c1d",
+  "darkMuted": "#593835",
+  "lightVibrant": "#fcd454",
+  "accent": "#da902c",
+  "accentHover": "#e0a14c",
+  "accentGlow": "rgba(218, 144, 44, 0.25)",
+  "dark": {
+    "bg": "#0a0a0a",
+    "surface": "#472d2a",
+    "card": "#1a1a1a",
+    "text": "#ffffff",
+    "textMuted": "#999999",
+    "border": "rgba(255,255,255,0.08)"
+  },
+  "light": {
+    "bg": "#f8f8f8",
+    "surface": "#ffffff",
+    "card": "#f0f0f0",
+    "text": "#111111",
+    "textMuted": "#666666",
+    "border": "rgba(0,0,0,0.08)"
+  },
+  "suggestedTheme": "dark"
+}

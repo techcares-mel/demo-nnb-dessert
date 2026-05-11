@@ -1,0 +1,72 @@
+{
+  "name": "NNB Dessert House",
+  "full_name": "Nhung Nguoi Ban (NNB) Dessert House",
+  "type": "Vietnamese dessert shop",
+  "tagline": "A taste of Vietnamese late-night dessert culture",
+  "description": "NNB Dessert House (Nhung Nguoi Ban — \"Friends\") is a Vietnamese dessert and street-food spot hidden down a fairy-lit alleyway in Sunshine, with a second location in Footscray. The menu celebrates Vietnamese late-night food culture: an array of chè (hot and cold dessert soups) with toppings chosen from a glass cabinet, homemade yogurts and jellies, plus savoury snacks like bột chiên, bò né, bún riêu, and rice paper salad. It is the perfect place for summer evening cravings — sweet or savoury — over coconut milk chè, crushed ice and flan.",
+  "address": "221A Hampshire Rd, Sunshine, VIC 3020",
+  "address_secondary": "57 Byron St, Footscray, VIC 3011",
+  "phone": "(03) 9078 5135",
+  "phone_secondary": "",
+  "email": "",
+  "services": [
+    "Chè (Vietnamese dessert soups)",
+    "NNB Special Combination Chè",
+    "Thailander Chè",
+    "Homemade yogurts & jellies",
+    "Crème caramel (bánh flan)",
+    "Milk teas & bubble tea",
+    "Vietnamese street snacks (bột chiên, bò né)",
+    "Bún riêu",
+    "Rice paper salad (bánh tráng trộn)",
+    "Coffee & kombucha"
+  ],
+  "social_links": {
+    "facebook": "https://www.facebook.com/nnbdesserthouse/",
+    "instagram": "https://www.instagram.com/nnbdessert/",
+    "linkedin": "",
+    "tiktok": ""
+  },
+  "existing_website_url": "",
+  "brand_colors": [],
+  "testimonials": [
+    {
+      "author": "That's A Feed (TikTok)",
+      "text": "This hidden dessert shop in Sunshine not only sells some amazing viet chè but also a list of other famous Vietnamese street foods. After walking down this sketchy lane you'll enter a cute little dessert shop with the toppings displayed in a glass cabinet. Can't go wrong with any of their dessert — my personal favourite is number 12.",
+      "rating": 5
+    },
+    {
+      "author": "Sunshine Locals",
+      "text": "A delicious hidden gem tucked away in a lovely cosy hallway-like entrance on Hampshire Road. At night you will find it lit up with fairy lights — the perfect place for your summer night dessert or savoury snack craving.",
+      "rating": 5
+    },
+    {
+      "author": "Google reviewer",
+      "text": "Cozy atmosphere, reasonable prices, friendly staff and fresh ingredients. Loved the chè with coconut milk, jelly and flan on crushed ice.",
+      "rating": 4
+    }
+  ],
+  "opening_hours": {
+    "monday": "11:00 AM – 9:00 PM",
+    "tuesday": "11:00 AM – 9:00 PM",
+    "wednesday": "11:00 AM – 9:00 PM",
+    "thursday": "11:00 AM – 9:00 PM",
+    "friday": "11:00 AM – 9:00 PM",
+    "saturday": "11:00 AM – 9:00 PM",
+    "sunday": "11:00 AM – 9:00 PM"
+  },
+  "opening_hours_secondary": {},
+  "rating": 4.3,
+  "review_count": 170,
+  "popular_items": [
+    "NNB Special Combination Chè",
+    "Thailander Chè",
+    "Bột Chiên (pan-fried rice cake)",
+    "Crème Caramel",
+    "Rice Paper Salad",
+    "Brown Sugar Pearl Milk Tea",
+    "Matcha Latte Ice Blended"
+  ],
+  "atmosphere_notes": "Hidden down an alleyway entrance off Hampshire Road. Cosy, hallway-like shop with bar stools, fairy lights at night, glass display cabinet of dessert toppings. Authentic Vietnamese late-night food culture vibe.",
+  "image_urls": []
+}
